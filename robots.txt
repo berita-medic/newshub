@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-medic.github.io/newshub/sitemap.xml
